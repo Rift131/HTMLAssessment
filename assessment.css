@@ -38,6 +38,6 @@ img[src*='Bears'] > li {
   background-color: #cccccc;
 }
 
-#checkbox-grid {
+#checkbox-grid li {
   list-style-type: none;
 }
